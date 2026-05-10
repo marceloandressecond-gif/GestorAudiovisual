@@ -43,3 +43,4 @@ public class Actor {
         return nombre + " (" + nacionalidad + ", " + edad + " anios) -> " + rolPrincipal;
     }
 }
+// Commit 2: clase Actor con agregacion implementada
